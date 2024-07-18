@@ -1,0 +1,28 @@
+//=======================================================================
+//=============== Death Sentence Redux
+	"dsr_m2"
+	{
+		"tank_ban_flow"
+		{
+			"Tunnel"
+			{
+				"min"		"45"
+				"max"		"57"
+			}
+		}
+	}
+	"dsr_m5"
+	{
+		"ItemLimits"
+		{
+			"pain_pills"    "5"
+		}
+		"tank_ban_flow"
+		{
+			"Before got out of the metal door"
+			{
+				"min"		"0"
+				"max"		"60"
+			}
+		}
+	}
